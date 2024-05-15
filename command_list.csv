@@ -1,0 +1,112 @@
+    1  mkdir git_goit
+    2  ls -l
+    3  cd git_goit
+    4  ls -l
+    5  git config --global user.name oks-malenok
+    6  git config --get user.name
+    7  git config --global user.email oksanamalenok1@gmail.com
+    8  git config --global user.email
+    9  git clone https://github.com/oks-malenok/repo_test.git
+   10  pwd
+   11  help ls
+   12  cd ..
+   13  cd /c/Users/Пользователь/
+   14  ls -l
+   15  cd test_dir1
+   16  pwd
+   17  git config -- get user.email oksanamalenok1@gmail.com
+   18  git config --get user.name
+   19  git config -- global user.email oksanamalenok1@gmail.com
+   20  git config --global user.email oksanamalenok1@gmail.com
+   21  git config --get user.email oksanamalenok1@gmail.com
+   22  git clone https://github.com/oks-malenok/HW_10.git
+   23  ls -l
+   24  cd repo_test
+   25  cd
+   26  touch text_ignore.txt
+   27  cd HW_10
+   28  git status
+   29  cd test_dir1
+   30  ls -l
+   31  cd HW_10
+   32  cd
+   33  pwd
+   34  cd HW_10
+   35  cd test_dir1
+   36  cd HW_10
+   37  git status
+   38  touch text_ignore.txt
+   39  ls -l
+   40  touch .gitignore
+   41  ls-l
+   42  ls -la
+   43  vim .gitignore
+   44  git status
+   45  git add .gitignore
+   46  git commit -m "added gitignore'
+   47  git commit -m "added gitignore"
+   48  git push origin main
+   49  mkdir git_goit
+   50  cd git_goit
+   51  ls -l
+   52  pwd
+   53  cd ..
+   54  cd test_dir1
+   55  ls -l
+   56  cd HW_10
+   57  clear
+   58  cd test_dir1
+   59  pwd
+   60  ls -l
+   61  ls -l
+   62  pwd
+   63  cd
+   64  ді -д
+   65  ls -l
+   66  git push origin test_branch
+   67  cd test_dir1
+   68  ls -l
+   69  cd HW_10
+   70  git clone https://github.com/oks-malenok/HW_10.git
+   71  git clone https://github.com/oks-malenok/HW_10.git
+   72  ls -l
+   73  cd HW_10
+   74  git status
+   75  cd goit
+   76  mkdir git_goit
+   77  cd git_goit
+   78  ls -l
+   79  git config --global user.name oks-malenok
+   80  git config --global user.email oksanamalenok1@gmail.com
+   81  git config --get user.name
+   82  git config --get user.email
+   83  git clone https://github.com/oks-malenok/HW_10.git
+   84  ls -l
+   85  cd HW_10
+   86  git status
+   87  touch text_ignore.txt
+   88  ls -l
+   89  vim .gitignore
+   90  ls -l
+   91  git status text_ignore.txt
+   92  git add
+   93  git add.
+   94  git add .
+   95  git commit -m "commit"
+   96  git status
+   97  touch main_test.txt
+   98  git add .
+   99  git commit -m "commit 2"
+  100  git log
+  101  git checkout -b develop
+  102  touch develop_test.txt
+  103  git add .
+  104  git commit -m "commit 3"
+  105  vim develop_test.txt file
+  106  git status
+  107  git add .
+  108  git commit -m "commit 4"
+  109  git checkout main
+  110  git merge develop
+  111  git log
+  112  history > command_list.csv
